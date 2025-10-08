@@ -2,7 +2,7 @@
 This project is a Music Recommender System that suggests songs to users based on the lyrics or text description of other songs. It helps people discover songs similar in theme, emotion, or content to the ones they already enjoy. 
 
 
-The dataset used contains only four columns — artist, song, text, and link.
+#The dataset used contains only four columns — artist, song, text, and link.
 
 artist → name of the singer or band
 
@@ -15,7 +15,7 @@ link → YouTube or music link for easy access
 The system analyzes the text column (lyrics) to find similarities between songs using Natural Language Processing (NLP) techniques.
 
 
-How It Works
+#How It Works
 
 The lyrics or text of each song are cleaned and processed (removing stopwords, punctuation, etc).
 
